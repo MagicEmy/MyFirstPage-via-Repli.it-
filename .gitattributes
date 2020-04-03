@@ -1,2 +1,61 @@
-# Auto detect text files and perform LF normalization
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>My first web page</title>
+
+    <!-- This is a comment, by the way -->
+
+</head>
+
+<body>
+
+<h1>My first web page</h1>
+
+<h2>Wow Fratellone sei un genio!</h2>
+<p>This is an awesome idea to start pracrticing what I learn. <em> Cool I feel like typing now! </em> But I don't know anything of CSS and JS.... I should start learning all 3 languages togeter instead. Now I know. </p>
+
+<h2>Looking forward to: </h2>
+<ul>
+    <li>Mastering HTML</li>
+	<li>Mastering CSS </li>
+	<li>Mastering Js </li
+    <li>
+        To show off
+        <ol>
+            <li>To my boss</li>
+            <li>To my friends</li>
+            <li>To my cat Ottina alias Gattinga </li>
+            <li>To the little talking duck in my brain</li>
+        </ol>
+    </li>
+</ul>
+
+
+<h3>Exclusive members only</h3>
+<p><strong>Note:</strong> Enter your name and at least 2 nick names of your pet alive or not.</p>
+
+<form action="somescript.php" method="post">
+
+<p>Name:</p>
+<p><input name="name" value="Your name"></p>
+
+<p>Comments: </p>
+<p><textarea rows="10" cols="20" name="comments">Your list of funny names</textarea></p>
+
+<p>Are you:</p>
+<p><input type="radio" name="areyou" value="fratello"> Mifrate'</p>
+<p><input type="radio" name="areyou" value="sorella"> Tusere'</p>
+<p><input type="radio" name="areyou" value="nonsibiling"> Intruder</p>
+<p><input type="radio" name="areyou" value="pet" checked> Cat</p>
+
+<p><input type="submit"></p>
+
+</form>
+
+</body>
+
+</html># Auto detect text files and perform LF normalization
 * text=auto
